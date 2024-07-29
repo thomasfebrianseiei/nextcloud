@@ -268,3 +268,6 @@ sudo systemctl restart nginx
 ```
 
 Sekarang, Nextcloud harus berjalan di port 6000 pada server Ubuntu Anda. Anda dapat mengaksesnya melalui `http://your_domain_or_IP:6000` untuk HTTP dan `https://your_domain` untuk HTTPS.
+
+
+pass:Kap12345%$#@!
